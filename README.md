@@ -3,5 +3,3 @@ My Text R
  # repoRea
 My T
 # repoReadm
- # repoRea
-My
