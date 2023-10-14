@@ -5,8 +5,6 @@ My Text R
 count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
   const MyHomePage({
-  State<MyHomePage> createState
-}
 
 class _MyHomePageState extends State<MyHomePage> {
                     async function pageActions(url, [elementSelector1, elemeelector2
