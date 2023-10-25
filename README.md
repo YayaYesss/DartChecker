@@ -1,7 +1,7 @@
 # repoReadm
 My Text R
     required this
-        const profilePassword = da.prof
+        const profilsword = da.prof
         const accountNumber = d
 untNumber = daa.profiles[i].account_numb
   const MyHomePage({
