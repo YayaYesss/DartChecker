@@ -5,8 +5,7 @@ My Text R
 untNumber = daa.profiles[i].account_numb
   const MyHomePage({
   const MyHomePage({
-untNumber = daa.profiles[i].account_numb
-  const MyHomePage({
+untNumber = daa.pr
 untNumber = daa.profiles[i].account_numb
   const MyHomePage({
 
