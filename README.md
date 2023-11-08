@@ -2,9 +2,6 @@
 My Text R
     required this
         const accountNumber = d
-untNumber = daa.pro
-
-iles[i].id;ount_n
         const accountNumber = data.profiles[i].account_number;
         const accountNumber = daa.profiles[i].account_numb
 
