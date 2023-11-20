@@ -1,3 +1,2 @@
 # repoReadm
-My Text R
-    required thises[i].account_numb
+My Text Rs[i].account_numb
