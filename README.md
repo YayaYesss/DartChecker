@@ -6,8 +6,7 @@ My Text Rs[i].account_numb
           child: Textimport 'package:al.da# fl
 
 iles[i].id;ount_n# flutterTest # flutterTest# flutterter/matda# flutterTest # flutterTest# flutter
-          child: Textimport 'package:al.da# # flutterTest # flutterTest# fl# flutterTest # flutterTest# flutterter/matda# flutterTest # flutterTest# flutter
-          child: Textimport 'package:al.da# fl
+          child: Textimport 'package:al.da# # flutterTest # flutterTort 'package:al.da# fl
 
 iles[i].id;ount_n
           child: Textimport 'package:al.da# fl
