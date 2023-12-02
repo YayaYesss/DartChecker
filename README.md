@@ -1,7 +1,6 @@
 # repoReadm
 My Text Rs[i].account_numb
-iles[i].id;ount_n# flutterTest # flutterTest# flutterter/matda# fl
-          child: Textimport 'package:al.da# fl
+iles[i].id;ount_n# flutterTest # fl:al.da# fl
 
 iles[i].id;ount_n
 iles[i].id;ount_nfl
