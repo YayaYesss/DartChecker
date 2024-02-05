@@ -7,7 +7,4 @@ umber;.profile[i].passwors[i]s const
 ta.profili].pasSelector
 
 
-= daa.nst 
-umber;.profile[i].passwors[i]s const 
-= daa.nst 
 ta.profili].pasSelector
