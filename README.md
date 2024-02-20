@@ -4,7 +4,3 @@ iles[i].id;ount_neuytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=lllllllll
 lllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllllluytj=llllllllll
 umber;.profile[i].passwors[i]s const 
 = daa.nst 
-ta.profili].pasSelector
-
-
-ta.profili].pasSelector
